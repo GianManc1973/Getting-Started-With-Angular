@@ -23,6 +23,12 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {id: 4,
+    name: 'Phone iPhonez 11',
+    price: 799,
+    description: 'Prodotto Nuovo. Vetro Temperato In Regalo. Cavo Originale.'
+
   }
 ];
 
